@@ -1,0 +1,21 @@
+{
+	"required": true,
+	"package": "com.example.croppy.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"AnvilMenuMixin",
+		"BlockItemMixin",
+		"BundleItemMixin",
+		"ComposterBlockMixin",
+		"CraftingMenuMixin",
+		"FarmBlockMixin",
+		"PlayerPickupMixin",
+		"ResultSlotMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
