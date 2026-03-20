@@ -1,11 +1,11 @@
-package com.example.croppy.mixin;
+package com.ctsymons.fplus.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
-import com.example.croppy.CroppyEnchantmentUtil;
+import com.ctsymons.fplus.CroppyEnchantmentUtil;
 
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;

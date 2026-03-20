@@ -1,7 +1,7 @@
-package com.example.croppy.mixin;
+package com.ctsymons.fplus.mixin;
 
-import com.example.croppy.PlayerPlacedPumpkinsData;
-import com.example.croppy.ComposterBufferData;
+import com.ctsymons.fplus.PlayerPlacedPumpkinsData;
+import com.ctsymons.fplus.ComposterBufferData;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.InteractionResult;

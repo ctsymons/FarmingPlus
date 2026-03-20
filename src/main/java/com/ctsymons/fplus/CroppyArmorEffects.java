@@ -1,4 +1,4 @@
-package com.example.croppy;
+package com.ctsymons.fplus;
 
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
 import net.minecraft.resources.Identifier;
@@ -8,7 +8,7 @@ import net.minecraft.world.entity.ai.attributes.AttributeModifier;
 import net.minecraft.world.entity.ai.attributes.Attributes;
 
 public final class CroppyArmorEffects {
-	private static final Identifier HEARTY_MODIFIER_ID = Identifier.fromNamespaceAndPath(CroppyMod.MOD_ID, "hearty_bonus_health");
+	private static final Identifier HEARTY_MODIFIER_ID = Identifier.fromNamespaceAndPath(FPlusMod.MOD_ID, "hearty_bonus_health");
 	private static final double HEALTH_PER_LEVEL = 0.5D;
 
 	private CroppyArmorEffects() {

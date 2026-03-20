@@ -1,4 +1,4 @@
-package com.example.croppy;
+package com.ctsymons.fplus;
 
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
 import net.fabricmc.fabric.api.event.player.PlayerBlockBreakEvents;

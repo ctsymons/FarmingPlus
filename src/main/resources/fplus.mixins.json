@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.example.croppy.mixin",
+	"package": "com.ctsymons.fplus.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"AnvilMenuMixin",

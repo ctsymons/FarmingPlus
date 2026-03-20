@@ -1,4 +1,4 @@
-package com.example.croppy;
+package com.ctsymons.fplus;
 
 import net.minecraft.core.Holder;
 import net.minecraft.core.HolderLookup;

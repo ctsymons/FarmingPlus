@@ -1,6 +1,6 @@
-package com.example.croppy.mixin;
+package com.ctsymons.fplus.mixin;
 
-import com.example.croppy.FPlusCrafting;
+import com.ctsymons.fplus.FPlusCrafting;
 import net.minecraft.network.protocol.game.ClientboundContainerSetSlotPacket;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;

@@ -1,4 +1,4 @@
-package com.example.croppy;
+package com.ctsymons.fplus;
 
 import java.util.List;
 import java.util.Optional;

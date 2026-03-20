@@ -1,6 +1,6 @@
-package com.example.croppy.mixin;
+package com.ctsymons.fplus.mixin;
 
-import com.example.croppy.FPlusCrafting;
+import com.ctsymons.fplus.FPlusCrafting;
 import net.minecraft.core.NonNullList;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.inventory.CraftingContainer;

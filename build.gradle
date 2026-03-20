@@ -20,7 +20,7 @@ repositories {
 
 loom {
 	mods {
-		"croppy" {
+		"fplus" {
 			sourceSet sourceSets.main
 		}
 	}

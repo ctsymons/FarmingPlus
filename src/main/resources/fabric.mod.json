@@ -3,22 +3,22 @@
 	"id": "fplus",
 	"version": "${version}",
 	"name": "Farming+",
-	"description": "Adds the Croppy and Replenish enchantments, crop automation, and farmland protection.",
+	"description": "Adds custom farming enchants, items, recipes, automation, and utility systems.",
 	"authors": [
 		"tsymons"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/ctsymons/FarmingPlus"
 	},
 	"license": "CC0-1.0",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.croppy.CroppyMod"
+			"com.ctsymons.fplus.FPlusMod"
 		]
 	},
 	"mixins": [
-		"croppy.mixins.json"
+		"fplus.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.2",

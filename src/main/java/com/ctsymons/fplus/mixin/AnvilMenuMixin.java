@@ -1,6 +1,6 @@
-package com.example.croppy.mixin;
+package com.ctsymons.fplus.mixin;
 
-import com.example.croppy.CroppyEnchantmentUtil;
+import com.ctsymons.fplus.CroppyEnchantmentUtil;
 import net.minecraft.world.inventory.AbstractContainerMenu;
 import net.minecraft.world.inventory.AnvilMenu;
 import net.minecraft.world.inventory.DataSlot;

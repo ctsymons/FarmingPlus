@@ -1,6 +1,6 @@
-package com.example.croppy.mixin;
+package com.ctsymons.fplus.mixin;
 
-import com.example.croppy.CroppyEnchantmentUtil;
+import com.ctsymons.fplus.CroppyEnchantmentUtil;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.Entity;
